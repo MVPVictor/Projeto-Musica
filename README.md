@@ -1,0 +1,1 @@
+Fazer um site de venda de instrumentos musicais pra referencias em projetos futuros por fim didático dei um tempo por motivos pessoais desejo completar no futuro e consertar alguns bugs que fizeram que ele não esteja 100%
